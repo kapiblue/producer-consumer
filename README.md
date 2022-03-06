@@ -15,7 +15,7 @@ Run in bash. Multiple producers and consumers are allowed.
 ## Features
 
 * Supports running several producers and consumers at the same time
-* uses a circular buffer of size N to support up to N concurrent processes (by default N=5)
+* Uses a circular buffer of size N to support up to N concurrent processes (by default N=5)
 * The ordering of items being consumed reflects production end times
 
 ## Sources
