@@ -10,7 +10,7 @@
 The project implements the producer and the consumer to solve the Producer-Consumer problem. It was created as a final project for the Operating Systems and Concurrent Programming course. 
 
 ## Setup
-Run in bash. Multiple producers and consumers are allowed.
+Compile with g++. Running multiple producers and consumers is allowed.
 
 ## Features
 
